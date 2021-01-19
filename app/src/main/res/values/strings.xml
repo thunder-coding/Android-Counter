@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_1">+1</string>
+    <string name="__1">-1</string>
+    <string name="reset">RESET</string>
+    <string name="click_me">click me</string>
+</resources>
